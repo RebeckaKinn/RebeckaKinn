@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rebecka Kinn!</h1>
 <h3 align="center">A creative soul from Norway.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RebeckaKinn&label=Profile%20views&color=0e75b6&style=flat" alt="rebeckakinn" /> </p>
-
 - 📫 How to reach me **becka_1994@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/](https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/)
@@ -20,6 +18,7 @@
 
 
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RebeckaKinn&label=Profile%20views&color=0e75b6&style=flat" alt="rebeckakinn" /> </p>
 **RebeckaKinn/RebeckaKinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
