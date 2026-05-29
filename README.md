@@ -1,18 +1,21 @@
 
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 
-<h1 align="center">I'm Rebecka Kinn</h1>
-<h3 align="center">A creative soul from Norway.</h3>
+<h1 align="center">A creative soul from Norway</h1>
+<h3 align="center">Rebecka Kinn</h3>
 
 <p>
-  I have 2 kids, 2 cats, work as a programming teacher while I study frontend programming to evolve my skills. It's a crazy life, but I love it. 
+  I work as a programming teacher - teaching JS, HTML, CSS and C# basics. Some of my repositories are related to work, either it is buggy code the students has to fork / clone and fix, or code worked on live in a lesson.
+</p>
+<p>
+  I am studying Frontend Development at the same time as working full time. Some of my repoes are testing, projects related to school work, assignments and exams. I am always developing my skills, so I keep adding new ways to code and create. 
 </p>
 
-- 📫 How to reach me **becka_1994@hotmail.com**
+- How to reach me **becka_1994@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/](https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/)
+- Know about my experiences [https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/](https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/)
 
-- ⚡ Fun fact **I love to knit, sew, paint and create.**
+- Fun fact **I love to knit, sew, paint and create.**
 
 
 <h3 align="left">Languages and Tools:</h3>
