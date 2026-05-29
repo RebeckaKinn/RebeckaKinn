@@ -1,7 +1,7 @@
 
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 
-<h1 align="center">Hi 👋, I'm Rebecka Kinn!</h1>
+<h1 align="center">I'm Rebecka Kinn</h1>
 <h3 align="center">A creative soul from Norway.</h3>
 
 <p>
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/](https://www.linkedin.com/in/rebecka-sandbrekkene-kinn/)
 
-- ⚡ Fun fact **I love to knit**
+- ⚡ Fun fact **I love to knit, sew, paint and create.**
 
 
 <h3 align="left">Languages and Tools:</h3>
