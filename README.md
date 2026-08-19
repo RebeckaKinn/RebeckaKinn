@@ -1,10 +1,14 @@
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace;">Programming teacher and Frontend-developer</h1>
+<h1 align="center">Programming teacher and Frontend developer</h1>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-bottom: 20px; gap: .5rem;">
-<img style="max-height: 150px; max-width: 150px" src="img/main_logo_light.svg">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/main_logo_light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/main_logo_dark.svg">
+    <img src="img/main_logo_dark.svg" alt="Rebecka Kinn logo" width="150">
+  </picture>
+</p>
 
-  <h3 style="font-family: 'Courier New', Courier, monospace; font-size: 25px; margin: 0; color: #61DBFB; font-weight: 100;">Rebecka I. E. S. Kinn</h3>
-</div>
+<h3 align="center">Rebecka I. E. S. Kinn</h3>
 
 <p>
   I work as a programming teacher - teaching JS, HTML, CSS and C# basics. Some of my repositories are related to work, either it is buggy code the students has to fork / clone and fix, or code worked on live in a lesson. I am studying Frontend Development at the same time as working full time. Some of my repoes are testing, projects related to school work, assignments and exams. I am always developing my skills, so I keep adding new ways to code and create. 
