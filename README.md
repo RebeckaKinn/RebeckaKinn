@@ -1,3 +1,4 @@
+  <img src="img/bildet_1.jpg" alt="Banner" width="100%">
 <h1 align="center">Programming teacher and Frontend developer</h1>
 
 <p align="center">
